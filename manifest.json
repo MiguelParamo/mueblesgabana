@@ -1,0 +1,54 @@
+{
+    "name":"Muebles Gabana",
+    "short_name":"Muebles Gabana",
+    "description":"Este es el sitio web de Muebles Gabana. Bienvenido",
+    "background_color":"#f8a13e",
+    "theme_color":"#f8a13e",
+    "orientation":"portrait",
+    "display":"standalone",
+    "start_url":"./?utm_sourse=web_app_manifest",
+    "scope":"./",
+    "lang":"es-MX",
+    "icons":[
+        {
+            "src":"./img/Logo16.png",
+            "sizes":"16x16",
+            "type": "image/png"
+        },
+        {
+            "src":"./img/Logo32.png",
+            "sizes":"32x32",
+            "type": "image/png"
+        },
+        {
+            "src":"./img/Logo64.png",
+            "sizes":"64x64",
+            "type": "image/png"
+        },
+        {
+            "src":"./img/Logo96.png",
+            "sizes":"96x96",
+            "type": "image/png"
+        },
+        {
+            "src":"./img/Logo128.png",
+            "sizes":"128x128",
+            "type": "image/png"
+        },
+        {
+            "src":"./img/Logo144.png",
+            "sizes":"144x144",
+            "type": "image/png"
+        },
+        {
+            "src":"./img/Logo192.png",
+            "sizes":"192x192",
+            "type": "image/png"
+        },
+        {
+            "src":"./img/Logo256.png",
+            "sizes":"256x256",
+            "type": "image/png"
+        }
+    ]
+}
