@@ -1,6 +1,6 @@
 {
     "dir": "auto",
-    "categories": ["muebles","ecomerce","eshop"],
+    "categories": ["muebles","eComerce","eShop"],
     "name":"Muebles Gabana",
     "short_name":"Muebles Gabana",
     "description":"Te presentamos el sitio web de Muebles Gabana. Bienvenido",
@@ -51,6 +51,23 @@
             "src":"./img/Logo256.png",
             "sizes":"256x256",
             "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "./img/Screen1.jpg",
+            "sizes": "1080x2340",
+            "type": "image/jpg"
+        },
+        {
+            "src": "./img/Screen2.jpg",
+            "sizes": "1080x2340",
+            "type": "image/jpg"
+        },
+        {
+            "src": "./img/Screen3.jpg",
+            "sizes": "1080x2340",
+            "type": "image/jpg"
         }
     ]
 }
