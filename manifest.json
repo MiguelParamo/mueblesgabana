@@ -5,7 +5,7 @@
     "background_color":"#f8a13e",
     "theme_color":"#f8a13e",
     "orientation":"portrait",
-    "display":"minimal-ui",
+    "display":"fullscreen",
     "start_url":"./?utm_sourse=web_app_manifest",
     "scope":"./",
     "lang":"es-MX",
